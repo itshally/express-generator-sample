@@ -1,1 +1,1 @@
-# express-generator-sample
+# express generator sample
